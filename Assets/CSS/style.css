@@ -1,0 +1,18 @@
+.principal{
+    font-family: 'roboto';
+}
+
+footer{
+    text-align: center;
+    margin: 0;
+}
+
+.marca{
+    font-weight: bold;
+}
+
+.copyright{
+    font-size: small;
+    font-style: italic;
+    margin: 0;
+}
